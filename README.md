@@ -1,5 +1,5 @@
 # Netflix Data Exploration and Visualization
-📓 View Project
+
 Google Colab Notebook:
 https://colab.research.google.com/drive/1wu72VbOHA9_8WGAy5fsNay3vMqPTVdK6#scrollTo=-TcTF0qJPbeY
 
